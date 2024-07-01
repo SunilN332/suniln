@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sunil N</h1>
 <h3 align="center">Software Test Engineer | Automation testing | Dreaming on Python Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunilnreddy332" alt="sunilnreddy332" /></a> </p>
-
 - 🔭 I’m currently working on **Automation test engineer**
 
 - 📫 How to reach me **reddysunil336@gmail.com**
