@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sunil N</h1>
-<h3 align="center">Software Test Engineer | Automation testing | Dreaming on Python Developer</h3>
+<h3 align="center">Software Test Engineer | Automation testing </h3>
 
 - 🔭 I’m currently working on **Automation test engineer**
 
